@@ -142,9 +142,9 @@ def main():
 
     map_pad = "D:\School\Python\python_basis_opdrachten\movie_posters\movie_posters"  # Map met afbeeldingen
 
-    uitvoer_bestand = "D:\School\Python\python_basis_opdrachten\Gewijzigde_bestanden.txt"
+    uitvoer_bestand = "D:\School\Python\python_basis_opdrachten\movie_posters\Gewijzigde_bestanden.txt"  # Uitvoerbestand voor gewijzigde namen
 
-    backup_bestand = "D:\\School\\Python\\python_basis_opdrachten\\backup_bestanden.json"
+    backup_bestand = "D:\\School\\Python\\python_basis_opdrachten\\movie_posters\\backup_bestanden.json"
 
  
 
